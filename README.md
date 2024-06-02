@@ -1,19 +1,20 @@
 ## Tools and Libraries Used
 
-  - React: A JavaScript library for building user interfaces.
-  - Styled-components: Visual primitives for the component age.
-  - Jest: JavaScript testing framework.
-  - @testing-library/react: Simple and complete testing utilities that encourage good testing practices.
-  - Prettier: An opinionated code formatter.
-  - ESLint: A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
-  - Husky: Git hooks made easy.
+-   React: A JavaScript library for building user interfaces.
+-   Styled-components: Visual primitives for the component age.
+-   Jest: JavaScript testing framework.
+-   @testing-library/react: Simple and complete testing utilities that encourage good testing practices.
+-   Prettier: An opinionated code formatter.
+-   ESLint: A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
+-   Husky: Git hooks made easy.
 
 ## Getting Started
+
 ### Prerequisites
 
-  Node.js and npm installed on your machine.
-  Git installed on your machine.
-  A GitHub account.
+Node.js and npm installed on your machine.
+Git installed on your machine.
+A GitHub account.
 
 ### Installation
 
@@ -33,22 +34,22 @@
 
 #### Running Tests
 
-  To run the unit tests, use the following command: 
-  
+To run the unit tests, use the following command:
+
     npm test
 
-  To check test coverage, use: 
-  
+To check test coverage, use:
+
     npm run test:coverage
 
 #### Linting and Formatting
 
-  To lint the code, use:
-  
+To lint the code, use:
+
     npm run lint
 
-  To format the code, use:
-  
+To format the code, use:
+
     npm run format
 
 #### Contributing
