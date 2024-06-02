@@ -1,3 +1,16 @@
+# React18-Boilerplate
+
+This project is a React application that interacts with the PokeAPI to fetch and display Pokémon data. It includes components for fetching and displaying both a random Pokémon and the first generation Pokémon list.
+
+## Features
+
+- Fetch and display a random Pokémon.
+- Fetch and display a list of Generation 1 Pokémon.
+- Notifications for successful fetches and errors.
+- Styled with `styled-components`.
+- Unit tests using `Jest` and `@testing-library/react`.
+
+
 ## Tools and Libraries Used
 
 -   React: A JavaScript library for building user interfaces.
