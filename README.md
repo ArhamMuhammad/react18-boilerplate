@@ -1,12 +1,12 @@
 ## Tools and Libraries Used
 
-  React: A JavaScript library for building user interfaces.
-  Styled-components: Visual primitives for the component age.
-  Jest: JavaScript testing framework.
-  @testing-library/react: Simple and complete testing utilities that encourage good testing practices.
-  Prettier: An opinionated code formatter.
-  ESLint: A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
-  Husky: Git hooks made easy.
+  - React: A JavaScript library for building user interfaces.
+  - Styled-components: Visual primitives for the component age.
+  - Jest: JavaScript testing framework.
+  - @testing-library/react: Simple and complete testing utilities that encourage good testing practices.
+  - Prettier: An opinionated code formatter.
+  - ESLint: A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
+  - Husky: Git hooks made easy.
 
 ## Getting Started
 ### Prerequisites
